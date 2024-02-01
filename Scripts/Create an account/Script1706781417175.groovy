@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://prestashop-nightly-cloud.acceptance.squashtest.org/
 
 WebUI.click(findTestObject('Object Repository/Page_Login/input_id_gender'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_firstname'), 'Dourade')
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_firstname'), 'Tilapia')
 
 WebUI.setText(findTestObject('Object Repository/Page_Login/input_lastname'), 'TheFish')
 
@@ -48,6 +48,24 @@ WebUI.click(findTestObject('Object Repository/Page_Login/button_Enregistrer'))
 WebUI.verifyElementText(findTestObject('Object Repository/Page_PrestaShop/user_name'), 'Tilapia TheFish')
 
 WebUI.takeFullPageScreenshotAsCheckpoint('account_created')
+
+WebUI.navigateToUrl('https://prestashop-nightly-cloud.acceptance.squashtest.org/administration/index.php?controller=AdminLogin&token=ceaaf8a997382e14db8065e2a862e5ff')
+
+WebUI.setText(findTestObject('Object Repository/Page_PrestaShop (PrestaShop)/input_email'), 'user@example.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_PrestaShop (PrestaShop)/input_passwd'), 'wLrVf176BYjHVrP/dHqRyg==')
+
+WebUI.click(findTestObject('Object Repository/Page_PrestaShop (PrestaShop)/button_Se connecter'))
+
+WebUI.click(findTestObject('Object Repository/Page_Dashboard  PrestaShop/span_Customers'))
+
+WebUI.click(findTestObject('Object Repository/Page_Dashboard  PrestaShop/a_Customers'))
+
+WebUI.click(findTestObject('Object Repository/Page_Grez vos clients  PrestaShop/a_btn btn-link dropdown-toggle dropdown-tog_b028f2'))
+
+WebUI.click(findTestObject('Object Repository/Page_Grez vos clients  PrestaShop/a_delete        Supprimer'))
+
+WebUI.click(findTestObject('Object Repository/Page_Grez vos clients  PrestaShop/button_Supprimer'))
 
 WebUI.closeBrowser()
 
