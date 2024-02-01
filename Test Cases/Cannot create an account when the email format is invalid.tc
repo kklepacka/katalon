@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cannot create an account when the email format is invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a857c64a-8f79-4fc4-a249-e1f29ed5274a</testCaseGuid>
+</TestCaseEntity>
