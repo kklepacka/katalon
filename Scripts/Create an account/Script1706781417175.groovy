@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://prestashop-nightly-cloud.acceptance.squashtest.org/
 
 WebUI.click(findTestObject('Object Repository/Page_Login/input_id_gender'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_firstname'), 'Tilapia')
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_firstname'), 'Dourade')
 
 WebUI.setText(findTestObject('Object Repository/Page_Login/input_lastname'), 'TheFish')
 
@@ -45,7 +45,7 @@ WebUI.click(findTestObject('Object Repository/Page_Login/input_psgdpr'))
 
 WebUI.click(findTestObject('Object Repository/Page_Login/button_Enregistrer'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_PrestaShop/user_name'), 'Tilapia TheFish')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_PrestaShop/user_name'), 'Dourade TheFish')
 
 WebUI.takeFullPageScreenshotAsCheckpoint('account_created')
 
