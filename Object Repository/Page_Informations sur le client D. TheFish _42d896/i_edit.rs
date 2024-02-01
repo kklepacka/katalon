@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_edit</name>
+   <tag></tag>
+   <elementGuidId>7080e3e5-1d65-4765-b0b3-9f582ab0da50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-div']/div/div[2]/div/div[2]/div/div/h3/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.tooltip-link.float-right.edit-link > i.material-icons</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>55b482eb-fd28-4540-9b80-025e0af6e3f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>c350fb44-e965-40ee-bc18-c32a3da971de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>edit</value>
+      <webElementGuid>68b462df-0d32-41ea-95bd-2f6266c61986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-div&quot;)/div[@class=&quot;content-div&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;card customer-personal-informations-card&quot;]/h3[@class=&quot;card-header&quot;]/a[@class=&quot;tooltip-link float-right edit-link&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>fec76f92-c205-4d74-ae4d-2e40e48d510b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-div']/div/div[2]/div/div[2]/div/div/h3/a[2]/i</value>
+      <webElementGuid>04828167-c217-46f2-94f2-6ba8793f3a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/a[2]/i</value>
+      <webElementGuid>4e7307da-30cb-4a92-990c-f1250dc55eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'edit' or . = 'edit')]</value>
+      <webElementGuid>f3ba2004-5247-4e33-8b1a-ba015e74c680</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

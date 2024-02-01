@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_PrestaShop/user_name",
+      "brokenLocator": "//div[@id\u003d\u0027_desktop_user_info\u0027]/div/a[2]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_PrestaShop/user_name_position.png"
+    }
+  ]
 }

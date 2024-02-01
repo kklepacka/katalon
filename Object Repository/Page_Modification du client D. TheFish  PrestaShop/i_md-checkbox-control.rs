@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_md-checkbox-control</name>
+   <tag></tag>
+   <elementGuidId>6e062dde-ac05-491a-98e7-55d93af3cdbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='customer']/div[9]/div/div/table/tbody/tr[3]/td/div/div/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td > div.form-check.form-check-radio.form-checkbox > div.md-checkbox.md-checkbox-inline > label > i.md-checkbox-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7a7fd75e-88e6-4a96-b156-c0103327d5d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-checkbox-control</value>
+      <webElementGuid>3663b9b3-1b02-44d2-9c3b-bc973f91b70c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer&quot;)/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm input-container&quot;]/div[@class=&quot;choice-table&quot;]/table[@class=&quot;table table-bordered mb-0&quot;]/tbody[1]/tr[3]/td[1]/div[@class=&quot;form-check form-check-radio form-checkbox&quot;]/div[@class=&quot;md-checkbox md-checkbox-inline&quot;]/label[1]/i[@class=&quot;md-checkbox-control&quot;]</value>
+      <webElementGuid>1e83c948-fc76-4ec5-9aa8-27110b9e7795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customer']/div[9]/div/div/table/tbody/tr[3]/td/div/div/label/i</value>
+      <webElementGuid>24c39e5d-ed24-484d-b7e0-39d41adb01c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/div/label/i</value>
+      <webElementGuid>91b873c5-09dd-4bdf-b5e3-c024131d001b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

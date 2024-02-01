@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Annuler</name>
+   <tag></tag>
+   <elementGuidId>d751122c-6607-434d-8f71-c61278863701</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-div']/div/div[2]/div/div[2]/div/form/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-footer > a.btn.btn-outline-secondary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f3a9ba89-ee6d-4ae9-b254-b189e7b3b6c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://prestashop-nightly-cloud.acceptance.squashtest.org/administration/index.php/sell/customers/8/view?_token=KNqbHN3eXeSql0yO1by9XK_RO5LyckhYkkLavllevBA</value>
+      <webElementGuid>f5789e71-61d7-44ba-9eab-33ac1257735c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-secondary</value>
+      <webElementGuid>daed2b77-5f3b-4a7c-a1b3-2be05a04970d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Annuler
+        </value>
+      <webElementGuid>b0e85abd-5a53-44ab-92f6-18caf6c84fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-div&quot;)/div[@class=&quot;content-div&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-footer&quot;]/a[@class=&quot;btn btn-outline-secondary&quot;]</value>
+      <webElementGuid>bef280cc-c5c1-491d-9f06-5f5d45765664</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-div']/div/div[2]/div/div[2]/div/form/div/div[2]/a</value>
+      <webElementGuid>318037ed-be12-40e7-b5ba-f622e35dcbba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Annuler')]</value>
+      <webElementGuid>d36d4eb9-9385-4d19-ae9e-416bfbad0b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://prestashop-nightly-cloud.acceptance.squashtest.org/administration/index.php/sell/customers/8/view?_token=KNqbHN3eXeSql0yO1by9XK_RO5LyckhYkkLavllevBA')]</value>
+      <webElementGuid>4f2776d9-f5db-4554-957e-725de2ccc8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/a</value>
+      <webElementGuid>d6fb8e91-bb38-43a2-a470-92e0e637d232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://prestashop-nightly-cloud.acceptance.squashtest.org/administration/index.php/sell/customers/8/view?_token=KNqbHN3eXeSql0yO1by9XK_RO5LyckhYkkLavllevBA' and (text() = '
+                  Annuler
+        ' or . = '
+                  Annuler
+        ')]</value>
+      <webElementGuid>c2e6a4b7-8575-4ce2-b6b2-5592c08c9330</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

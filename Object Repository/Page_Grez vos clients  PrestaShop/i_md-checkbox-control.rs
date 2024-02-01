@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_md-checkbox-control</name>
+   <tag></tag>
+   <elementGuidId>e6bafe24-a31f-468e-8a7d-5d766364a077</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='customer_grid_table']/tbody/tr/td/div/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.bulk_action-type.column-customers_bulk > div.md-checkbox > label > i.md-checkbox-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2099b29b-9ed4-4500-bfd7-b564cdf99f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-checkbox-control</value>
+      <webElementGuid>0203fed5-4468-42ec-a2fc-d4167feaa93b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_grid_table&quot;)/tbody[1]/tr[1]/td[@class=&quot;bulk_action-type column-customers_bulk&quot;]/div[@class=&quot;md-checkbox&quot;]/label[1]/i[@class=&quot;md-checkbox-control&quot;]</value>
+      <webElementGuid>4755cb62-7ded-4ca0-b899-a8e7db7a0fdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='customer_grid_table']/tbody/tr/td/div/label/i</value>
+      <webElementGuid>40f33692-c50e-4b49-a2b6-13d4ffd6856a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/td/div/label/i</value>
+      <webElementGuid>a133e03f-4065-4f81-b26b-2f9adda8e8e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
